@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **Python frameworks (Django,flask)**
 
-- 💬 Ask me about **Python**
+- 💬 Ask me about **MERN** & **Python**
 
 - 📫 How to reach me **mevininishshanka21@gmail.com**
 
